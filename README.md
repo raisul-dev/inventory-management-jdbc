@@ -1,18 +1,37 @@
-## Getting Started
+# Inventory Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple inventory management app built with Java, JDBC and MySQL. Provides CRUD for products, categories, and stock management with a basic UI.
 
-## Folder Structure
+## Features
+- Create / Read / Update / Delete (Products)
+- MySQL database using JDBC
+- Simple UI using Swing
 
-The workspace contains two folders by default, where:
+## Tech Stack
+- Java 11+
+- MySQL 8
+- JDBC
+- UI: Swing
+- Build: Maven / Gradle
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Screenshots
+### Home
+![Home](screenshots/Home.jpg)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Add Product
+![Add Product](screenshots/Add product.jpg)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Delete Product
+![Delete Product](screenshots/Delete products.jpg)
 
-## Dependency Management
+### Edit Product
+![Edit Product](screenshots/Edit products.jpg)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### View Products
+![View Products](screenshots/View products.jpg)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+Remon Molla — remonmolla101@gmail.com
