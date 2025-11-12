@@ -14,22 +14,23 @@ A simple inventory management app built with Java, JDBC and MySQL. Provides CRUD
 - UI: Swing
 - Build: Maven / Gradle
 
-## Screenshots
-### Home
+
+## 🖼️ Screenshots
+
+### 🏠 Home
 ![Home](screenshots/Home.jpg)
 
-### Add Product
+### ➕ Add Product
 ![Add Product](screenshots/Add product.jpg)
 
-### Delete Product
-![Delete Product](screenshots/Delete products.jpg)
-
-### Edit Product
+### ✏️ Edit Product
 ![Edit Product](screenshots/Edit products.jpg)
 
-### View Products
-![View Products](screenshots/View products.jpg)
+### ❌ Delete Product
+![Delete Product](screenshots/Delete products.jpg)
 
+### 👁️ View Products
+![View Products](screenshots/View products.jpg)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
